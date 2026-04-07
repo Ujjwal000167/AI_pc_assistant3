@@ -8,6 +8,7 @@ import speech_recognition as sr
 from config import apikey
 
 engine = pyttsx3.init()
+#engine run
 
 with open("intent_model.pkl", "rb") as f:
     intent_model = pickle.load(f)
