@@ -4,3 +4,4 @@ pyttsx3
 pyaudio
 scikit-learn
 numpy
+#
