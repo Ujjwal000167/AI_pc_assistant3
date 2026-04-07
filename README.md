@@ -1,6 +1,6 @@
 # **ro A.I. - Personal Virtual Assistant**
 
-**ro A.I.** is a voice-controlled personal assistant built with **OpenAI's GPT-3** model, capable of performing a variety of tasks like answering questions, opening websites, playing music, and more. It interacts with users through voice commands and provides responses using **text-to-speech**. This assistant aims to enhance productivity and offer a seamless, hands-free experience for the user.
+**ro A.I.** is a voice-controlled personal assistant built with **OpenAI's GPT-3** model, capable of performing a variety of tasks like answering questions, opening websites, playing music, and more. It interacts with users through voice commands and provides responses using **text-to-speech**. This assistant aims to enhance productivity and offer a seamless, hands-free experience for the user..
 
 ---
 
